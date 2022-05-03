@@ -18,6 +18,7 @@ int main(void)
 	
     while(1)
 	{
+        //use first pin H1
         // 1ms 0 
         // 1.5ms 90
         // 2ms 180
